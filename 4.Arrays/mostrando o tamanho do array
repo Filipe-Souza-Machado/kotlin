@@ -1,0 +1,12 @@
+fun main() {
+    
+    // mostrando o tamanho de um array.
+    
+var meuArray = arrayOf("ferrari", "FORD", "MACLAREN", "PORSHE");
+
+meuArray[0] = "CHEVROLET";
+    
+    // .size: mostra o tamanho do array
+println(meuArray.size) 
+
+}
