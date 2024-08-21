@@ -1,0 +1,9 @@
+fun main() {
+ 	
+    fun nomeDaFuncao(parametros: TipoDosParametros): TipoDeRetorno {
+    // código da função
+	}
+    
+    // se a função não tem retorno, use Unit.
+
+}
